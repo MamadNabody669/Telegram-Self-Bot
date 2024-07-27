@@ -1,0 +1,16 @@
+For the first time
+apt update
+apt upgrade
+
+pkg install python -y
+pkg install openssl
+pkg install python
+pip install telethon
+pip install colorama
+
+for run ever Time
+
+python main.py
+
+
+//Coded  By MamadNabody6
